@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Island02.unity
-=======
-- path: Assets/Scenes/Island01.unity
->>>>>>> main
+- path: Assets/Scenes/donttouch_island_save_close.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
