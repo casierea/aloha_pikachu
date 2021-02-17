@@ -1,21 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4c2dd55-a0e1-4143-9d63-814fa7cf219d" name="Default Changelist" comment="" />
+    <list default="true" id="f4c2dd55-a0e1-4143-9d63-814fa7cf219d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.islandtemplate/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.islandtemplate/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.islandtemplate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.islandtemplate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_03.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_03.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_04.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_04.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_05_UV.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_05_UV.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_UV01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_UV01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_UV_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain/t_terrain_UV_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/donttouch_island_save_close.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/donttouch_island_save_close.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PLook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PLook.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/BossPlayer.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/prefabs/BossPlayer.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMover.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1oOtZVBWQp8oxI9keQPP8weGD8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613169549039</updated>
       <workItem from="1613169579134" duration="999000" />
+      <workItem from="1613528699072" duration="993000" />
     </task>
     <servers />
   </component>
@@ -63,6 +120,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

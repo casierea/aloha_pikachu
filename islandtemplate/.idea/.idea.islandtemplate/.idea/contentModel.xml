@@ -2,23 +2,13 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\casie\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\casie\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_islandtemplate.1578541505.00" t="ExcludeRecursive" />
-    <e p="E:\Repos\Spring2020\helpisland\islandtemplate" t="IncludeRecursive">
-      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+    <e p="C:\Users\casie\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_islandtemplate.-857539893.00" t="ExcludeRecursive" />
+    <e p="E:\Repos\test\aloha_pikachu\islandtemplate" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="PlayerMover.cs" t="Include" />
           <e p="PLook.cs" t="Include" />
-          <e p="SimpleCameraController.cs" t="Include" />
-        </e>
-        <e p="TutorialInfo" t="Include">
-          <e p="Scripts" t="Include">
-            <e p="Editor" t="Include">
-              <e p="ReadmeEditor.cs" t="Include" />
-            </e>
-            <e p="Readme.cs" t="Include" />
-          </e>
         </e>
       </e>
       <e p="islandtemplate.sln" t="IncludeFlat" />
