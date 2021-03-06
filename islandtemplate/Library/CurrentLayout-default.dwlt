@@ -118,10 +118,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 910, y: 542}
-  m_MaxSize: {x: 22005, y: 14042}
+  m_MinSize: {x: 911, y: 542}
+  m_MaxSize: {x: 22006, y: 14042}
   vertical: 1
-  controlID: 60977
+  controlID: 10887
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,10 +143,10 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 947
-  m_MinSize: {x: 910, y: 542}
-  m_MaxSize: {x: 22005, y: 14042}
+  m_MinSize: {x: 911, y: 542}
+  m_MaxSize: {x: 22006, y: 14042}
   vertical: 0
-  controlID: 60978
+  controlID: 10888
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 635, y: 542}
   m_MaxSize: {x: 18005, y: 14042}
   vertical: 1
-  controlID: 60979
+  controlID: 10889
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 635, y: 421}
   m_MaxSize: {x: 18005, y: 10021}
   vertical: 0
-  controlID: 60980
+  controlID: 10890
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,7 +222,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 421}
   m_MaxSize: {x: 4001, y: 8021}
   vertical: 1
-  controlID: 60981
+  controlID: 10891
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -506,9 +506,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -221.89136, y: -1.9339495, z: -118.2028}
+    m_Target: {x: -218.16574, y: 7.044533, z: -52.404118}
     speed: 2
-    m_Value: {x: -221.89136, y: -1.9339495, z: -118.2028}
+    m_Value: {x: -218.16574, y: 7.044533, z: -52.404118}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -555,13 +555,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.1937757, y: 0.011481679, z: -0.00230427, w: -0.98109525}
+    m_Target: {x: -0.13451882, y: 0.15073314, z: -0.020650806, w: -0.97930217}
     speed: 2
-    m_Value: {x: -0.19377568, y: 0.011481679, z: -0.0023042697, w: -0.9810952}
+    m_Value: {x: -0.13451882, y: 0.15073316, z: -0.020650806, w: -0.97930217}
   m_Size:
-    m_Target: 210.21269
+    m_Target: 51.878895
     speed: 2
-    m_Value: 210.21269
+    m_Value: 51.878895
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -666,10 +666,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 14f6ffff
-      m_LastClickedID: -2540
-      m_ExpandedIDs: 0837ffff6ee5fffff2f3ffff86f5ffffaaf5ffffaef8ffff5efbffff743f0000e040000016420000
+      scrollPos: {x: 0, y: 10138}
+      m_SelectedIDs: ca37ffffc837ffffb237ffffb037ffffae37ffffce37ffffcc37ffffa637ffffa437ffffc637ffffc437ffffc237ffffc037ffffac37ffffaa37ffffa837ffffbe37ffffbc37ffffb637ffffb437ffffba37ffffb837ffff
+      m_LastClickedID: -51272
+      m_ExpandedIDs: 5efbffff64400000584200005648000046490000dc490000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -731,21 +731,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models/fishingpole
+    - Assets/Materials/Materials
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models/fishingpole
+  - Assets/Materials/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Repos\test\aloha_pikachu\islandtemplate
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bac80000
-    m_LastClickedID: 51386
-    m_ExpandedIDs: 000000002c4400002e440000304400003244000000ca9a3b
+    m_SelectedIDs: 8e4c0000
+    m_LastClickedID: 19598
+    m_ExpandedIDs: 00000000304c0000324c0000344c0000364c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -773,7 +773,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002c4400002e440000304400003244000000ca9a3b
+    m_ExpandedIDs: 00000000304c0000324c0000344c0000364c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -817,7 +817,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 11}
+      m_ClientGUIView: {fileID: 13}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -828,7 +828,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 273
+  m_DirectoriesAreaWidth: 134
 --- !u!114 &22
 MonoBehaviour:
   m_ObjectHideFlags: 52
